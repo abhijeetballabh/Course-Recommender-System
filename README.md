@@ -2,6 +2,8 @@
 
 A machine learning-powered web application that recommends personalized Coursera courses based on user input. Using advanced NLP techniques and cosine similarity algorithms, this system analyzes course descriptions, skills, and metadata to suggest highly relevant courses from a dataset of 3,500+ courses.
 
+**Live App**: [https://smart-course-recommender-system.streamlit.app/](https://smart-course-recommender-system.streamlit.app/)
+
 ## 📋 Table of Contents
 - [Features](#-features)
 - [How It Works](#-how-it-works)
