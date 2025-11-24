@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 # Configuration
 st.set_page_config(
-    page_title="Course Recommender Pro",
+    page_title="Course Recommender System",
     page_icon="🎓",
     layout="wide"
 )
@@ -34,7 +34,7 @@ def main():
     # Header Section
     st.markdown("""
     <div style='text-align: center; margin-bottom: 2rem;'>
-        <h1 style='color: #1a73e8;'>Smart Course Finder</h1>
+        <h1 style='color: #1a73e8;'>Course Recommender System</h1>
         <h3 style='color: #666;'>
             Discover 3,500+ Coursera Courses by Name, Description, or Skills
         </h3>
